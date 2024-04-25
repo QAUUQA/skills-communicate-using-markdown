@@ -1,3 +1,7 @@
+- [ ] Turn on GitHub Pages.
+- [ ] Outline my portfolio.
+- [ ] Introduce myself to the world.
+
 # H1 Title
 ###### H6 Title
 
@@ -6,3 +10,4 @@
 ```javascript
 var myVar = "Hello, world!";
 ```
+
